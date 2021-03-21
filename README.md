@@ -1,1 +1,1 @@
-# Project_Stopwatch
+#Stopwatch using HTML, CSS and Javascript.
